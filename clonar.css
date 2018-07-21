@@ -1,0 +1,65 @@
+.contenedor{
+    width: 98%;    
+    margin:0 auto;
+    float: left;
+    padding: 10px;
+    margin-left: 10px;
+    margin: 10px;
+}
+
+.header{
+	float: left;
+	padding: 2px;
+	margin: 2px;
+	width: 100%;
+	text-align: center;
+}
+
+.bloque{
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	width: 350px;
+	text-align: center;
+    }
+
+.bloquem{
+	float: left;
+	padding: 1px;
+	margin: 1px;
+	width: 400px;
+	text-align: center;
+}    
+
+.boton1{
+    color: white;
+    background-color:#28A5BE;
+    float: left;
+    padding: 5px;
+    width: 142px;
+    height: 60px;    
+}
+
+.boton2{    
+    color: white;
+    background-color:#2D2D2D;
+    float: left;
+    padding: 1px;    
+}
+
+body{
+    background-color:rgba(240, 240, 240, 0.966);
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.colorgris{
+    color:dimgray;
+}
